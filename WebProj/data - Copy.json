@@ -1,0 +1,74 @@
+{"data":
+   
+      [{
+         "personal":{
+            "name":"ali ahmadi",
+            "age":26
+         },
+         "skill":{
+            "skilcategory":"Technical",
+            "comments":"comments1"
+         },
+         "work":{
+            "insurance":3,
+            "place":"Ilam"
+         }
+},
+{
+      "personal":{
+         "name":"ali ahmadiwadi",
+         "age":33
+      },
+      "skill":{
+         "skilcategory":"Technical",
+         "comments":"comments1"
+      },
+      "work":{
+         "insurance":3,
+         "place":"Behshahr"
+      }
+},
+      
+         {
+            "personal":{
+               "name":"ali abhari",
+               "age":28
+            },
+            "skill":{
+               "skilcategory":"Technical",
+               "comments":"comments1"
+            },
+            "work":{
+               "insurance":3,
+               "place":"Tehran"
+            }
+},
+{
+      "personal":{
+         "name":"ali ahmadi",
+         "age":22
+      },
+      "skill":{
+         "skilcategory":"Artistic",
+         "comments":"comments1"
+      },
+      "work":{
+         "insurance":6,
+         "place":"Tehran"
+      }
+},               
+            {
+               "personal":{
+                  "name":"ali ahmadi",
+                  "age":22
+               },
+               "skill":{
+                  "skilcategory":"Artistic",
+                  "comments":"comments1"
+               },
+               "work":{
+                  "insurance":8,
+                  "place":"Tehran"
+               }
+            }]}
+         
